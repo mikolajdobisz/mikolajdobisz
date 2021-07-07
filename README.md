@@ -11,7 +11,7 @@
 
 ### About me:
 <p>
-I've been passionate about coding ever since I started to learn in high school. I enjoy programming because I like solving problems. I have a passion for learning new skills and putting them to use.
+I've been passionate about programming ever since I started to learn in high school. I have been learning programming both in school and also on my own from various online resources. I have completed multiple web development related tasks using different methods and technologies. I like thinking about difficult problems and coming up with ways to solve them. I have a passion for learning new skills and putting them to use.
 </p>
 
 ### Education:
@@ -21,7 +21,6 @@ I've been passionate about coding ever since I started to learn in high school. 
 ### My interests:
 - full-stack web development
 - web application design
-- game development
 
 ### Languages and Tools:
 
