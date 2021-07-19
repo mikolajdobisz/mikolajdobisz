@@ -12,10 +12,13 @@ I am a hard-working, passionate full stack developer from Poland who loves creat
 ### Social links:
 <p align="left">
   <p>
-    <a href="https://codepen.io/soundwave7331" target="blank">codepen.io</a>
+    <a href="https://codepen.io/soundwave7331" target="blank">codepen</a>
   </p>
   <p>
-    <a href="https://linkedin.com/in/mikołaj-dobisz" target="blank">linkedin.com</a>
+    <a href="https://dribbble.com/mikolajdobisz" target="blank">dribbble</a>
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/mikołaj-dobisz" target="blank">linkedin</a>
   </p>
 </p>
 
