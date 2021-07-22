@@ -15,7 +15,7 @@ I am a hard-working, passionate full stack developer from Poland who loves creat
     <a href="https://codepen.io/soundwave7331" target="blank">codepen</a>
   </p>
   <p>
-    <a href="https://dribbble.com/mikolajdobisz" target="blank">dribbble</a>
+    <a href="https://www.behance.net/mikolajdobisz" target="blank">behance</a>
   </p>
   <p>
     <a href="https://linkedin.com/in/mikołaj-dobisz" target="blank">linkedin</a>
